@@ -1,0 +1,133 @@
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.AssemblyInfoInputs.cache
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.AssemblyInfo.cs
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.csproj.CoreCompileInputs.cache
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\appsettings.Development.json
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\appsettings.json
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\TeamManagement.exe
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\TeamManagement.deps.json
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\TeamManagement.runtimeconfig.json
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\TeamManagement.runtimeconfig.dev.json
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\TeamManagement.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\ref\TeamManagement.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\TeamManagement.pdb
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Humanizer.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\scopedcss\bundle\TeamManagement.styles.css
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\staticwebassets\TeamManagement.StaticWebAssets.Manifest.cache
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.RazorTargetAssemblyInfo.cache
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.csproj.CopyComplete
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\ref\TeamManagement.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.pdb
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.genruntimeconfig.cache
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\AutoMapper.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Raj\Learning\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.csproj.AssemblyReference.cache
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\appsettings.json
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\TeamManagement.exe
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\TeamManagement.deps.json
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\TeamManagement.runtimeconfig.json
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\TeamManagement.runtimeconfig.dev.json
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\TeamManagement.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\ref\TeamManagement.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\TeamManagement.pdb
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.AssemblyInfoInputs.cache
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.AssemblyInfo.cs
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.csproj.CoreCompileInputs.cache
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\scopedcss\bundle\TeamManagement.styles.css
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\staticwebassets\TeamManagement.StaticWebAssets.Manifest.cache
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.RazorTargetAssemblyInfo.cache
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.csproj.CopyComplete
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\ref\TeamManagement.dll
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.pdb
+C:\Users\sea133\Desktop\New folder (2)\TeamManagement\TeamManagement\obj\Debug\net5.0\TeamManagement.genruntimeconfig.cache
